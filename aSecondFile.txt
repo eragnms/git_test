@@ -2,3 +2,4 @@
 - Adding a new line from server4
 - Yet a new line added from server4
 - Added a line from the manjaro_job machine
+- Added from master branch
