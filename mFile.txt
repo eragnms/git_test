@@ -1,2 +1,4 @@
 - This is the first edit, done on manjaro_job
 - Did a second edit with my iPad on server4
+- A first edit on the feature branch
+- A second edit
